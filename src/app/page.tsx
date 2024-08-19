@@ -8,7 +8,7 @@ export default function Home() {
       </div>
 
       <div className="relative z-[-1] flex place-items-center">
-        <p>I'm  a Software Engineering graduate from the University of Ottawa. I'm passionate about crafting elegant solutions to complex problems and turning innovative ideas into reality. Feel free to explore my portfolio and connect with me! I'm always excited to collaborate and discuss new opportunities.</p>
+        <p>I'm a Software Engineering graduate from the University of Ottawa. I'm passionate about crafting elegant solutions to complex problems and turning innovative ideas into reality. Feel free to explore my portfolio and connect with me! I'm always excited to collaborate and discuss new opportunities.</p>
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
