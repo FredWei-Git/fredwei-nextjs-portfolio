@@ -11,11 +11,11 @@ const projects = [
         links: [
             {
                 url: "https://github.com/FredWei-Git/fredwei-nextjs-portfolio",
-                text: "NextJS Ver. GitHub",
+                text: "Next.js Ver. GitHub",
             },
             {
                 url: "https://fredwei.vercel.app/",
-                text: "NextJS Ver. Website",
+                text: "Next.js Ver. Website",
             },
             {
                 url: "https://github.com/FredWei-Git/fredwei-git.github.io",
@@ -26,7 +26,7 @@ const projects = [
                 text: "Classic Ver. Website",
             },
         ],
-        technologies: ["Java", "Python", "TXL", "Umple"],
+        technologies: ["Next.js", "Tailwind CSS", "Vercel"],
     },
     {
         name: "Umple: Python Generation Features",
