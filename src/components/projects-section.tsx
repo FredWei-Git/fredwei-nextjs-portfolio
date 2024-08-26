@@ -30,7 +30,7 @@ const projects = [
     },
     {
         name: "Umple: Python Generation Features",
-        description: "Implemented features enabling Umple to generate executable Python code" +
+        description: "Implemented features enabling Umple to generate executable Python code " +
             "representing Umple concurrency.",
         image: "",
         links: [
